@@ -1,3 +1,5 @@
+This project is the FrontEnd Test for Full Throttle Labs. This app uses React JS for frontend and Firebase for backend. The database contains 5 hardcoded users. Each user  has activity for 2 dates, 1 March 2020 and 1 February 2020. Select either of these two dates to see the user's activity.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
