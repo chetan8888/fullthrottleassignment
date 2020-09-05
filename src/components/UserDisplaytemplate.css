@@ -1,0 +1,39 @@
+.template {
+    border-top: 1px solid #2d545e;
+    border-bottom: 1px solid #2d545e;
+    font-size: 40px;
+    color: black;
+}
+
+.name-heading {
+    transition: all .4s ease-in-out;
+}
+
+.name-heading:hover {
+    transform: scale(1.5)
+}
+
+.date-display {
+    font-size: 30px;
+    text-align: center;
+}
+
+.mod-title {
+    margin-left: 160px;
+}
+
+.select-date {
+    margin-left: 140px;
+}
+
+.cal-icon {
+    margin-left: 180px;
+}
+
+.cal {
+    margin-left: 60px;
+}
+
+.msg {
+    font-size: 18px;
+}
